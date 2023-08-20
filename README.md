@@ -1,8 +1,11 @@
 <h1 align="center">Hey pal, I'm Aman Bhardwaj</h1>
 <h3 align="center">Newbie old lost in devlopment.</h3>
-<img  width = "200px" src = "https://media.giphy.com/media/m0Ut9CFaKTdDO/giphy.gif">
-
-- 🌱 I’m currently learning **Gasp,ThreeJs,Devops,Cloud..**
+<img align="right" alt="coding"  width = "400px" 
+src = "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1060&t=st=1692528705~exp=1692529305~hmac=d6e9e48e9f7177f8a065eadbbec3faf90cdb6b3f65f048e00c3a78f1c5ffdb1a">
+<h4>
+I’m currently learning **Gasp,ThreeJs,Devops,Cloud..**
+</h4>
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
