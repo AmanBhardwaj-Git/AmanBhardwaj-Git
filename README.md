@@ -1,6 +1,6 @@
 <h1 align="center">Hey pal, I'm Aman Bhardwaj</h1>
 <h3 align="center">Newbie old lost in devlopment.</h3>
-<img style =" position :relative; right:10px; width = "200px" "  src = "https://media.giphy.com/media/m0Ut9CFaKTdDO/giphy.gif">
+<img style =" position :relative; float:right; right:10px;  width = 200px; "  src = "https://media.giphy.com/media/m0Ut9CFaKTdDO/giphy.gif">
 
 - 🌱 I’m currently learning **Gasp,ThreeJs,Devops,Cloud..**
 
